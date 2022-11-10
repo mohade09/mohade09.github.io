@@ -8,3 +8,12 @@ Solution Architect with 14 years of software engineering experience.  Experience
 
 ## Skills
 
+---
+## Experience
+
+### **DATA ARCHITECT**
+### AWS[https://aws.amazon.com/aws-data-lab/] 
+AWS Data Lab offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate data, analytics, artificial intelligence/machine learning (AI/ML), serverless, and containers modernization initiatives.
+
+
+
