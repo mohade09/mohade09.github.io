@@ -1,0 +1,11 @@
+title: Debadatta Mohapatra # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Data Architect/Engineer
+  <br><br>
+  <a href="mailto:debadatta.moha@gmail.com">debadatta.moha@gmail.com </a>
+  <br>
+ 
+  <br>
+  <a href="https://www.gihub.com/mohade09/">Gihub</a> 
+theme: jekyll-theme-minimal
