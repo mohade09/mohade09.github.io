@@ -1,4 +1,3 @@
-# DEBADATTA MOHAPATRA
 
 ## Contact Information
 
