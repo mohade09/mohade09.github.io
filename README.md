@@ -10,7 +10,7 @@
 
 ## Summary
 
-An experienced cloud and data architect with over 15 years of expertise in designing, developing and managing cloud solutions using AWS, Azure and GCP. Skilled in cloud computing, DevOps, automation,MLOps,data and analytics. Seeking to leverage my knowledge and skills to deliver innovative and cost-effective cloud solutions for your organization.
+An experienced cloud and data architect with over 15 years of expertise. Since last 9 years(2014) designing, developing and managing cloud solutions using AWS, Azure and GCP. Skilled in cloud computing, DevOps, automation,MLOps,data and analytics. Seeking to leverage my knowledge and skills to deliver innovative and cost-effective cloud solutions for your organization.
 
 ## Skills
 
@@ -20,11 +20,10 @@ An experienced cloud and data architect with over 15 years of expertise in desig
 - Cloud Services: EC2, S3, Lambda, Redshift,Kafka,Databricks, DataLake, Glue,EMR,BigQuery,Flink,Airflow
 - Certifications:  Microsoft Certified: Azure Solutions Architect ; Cloudera and MapR Hadoop Certifications
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="html" width="40" height="40">
-  <img src='' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg' height='30' width='auto' alt="js">
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-icon.svg" alt="react" width="auto" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg' height='30' width='auto' alt="Redshift">
+   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-icon.svg" alt="Databricks" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
 </p>
 ## Professional Experience
 
