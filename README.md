@@ -5,7 +5,7 @@
 - Address: Stockholm
 - Phone: +46(0)720229467
 - Email: debadatta.moha@gmail.com
-- [LinkedIn:] (https://www.linkedin.com/in/debadatta-mohapatra-39157526/)
+- [LinkedIn](https://www.linkedin.com/in/debadatta-mohapatra-39157526/)
 - [Latest Blog 👉 on Data Governance](https://aws.amazon.com/blogs/big-data/part-1-deploy-datahub-using-aws-managed-services-and-ingest-metadata-from-aws-glue-and-amazon-redshift/)
 
 ## Summary
