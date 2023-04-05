@@ -34,7 +34,7 @@ building data platform at scale
 
 - Troubleshoot and resolve cloud/data issues using monitoring , logging,observability  tools such as CloudWatch, Application Insights,SparkUI and Stackdriver
 
-- Worked with customers to implement data mesh design pattern to build data products, wrote blog posts and code artifacts to host opensource data catalog solution in AWS ecosystem.
+- Worked with customers to implement [data mesh design pattern](https://github.com/mohade09/aws-data-mesh-utils) to build data products, wrote blog posts and code artifacts to host opensource data catalog solution in AWS ecosystem.
 
 ### Data Sceince Delivery Lead /IoT Data Platform Lead | Electrolux |  AUG 2018 - JUN 2021
 
@@ -48,7 +48,7 @@ building data platform at scale
 
 - As a Developer in TCS tools group for designing and developing three major enterprise data management tools(DataClean,Data Profile tool, Data Modeling Tool[empowER]) 
 - Worked as a Information management consultant for Westpac bank in the EDW(Data warehouse) project on Teradata Platform
-- Consultant and solution architect in [TCS Sensor data analytics IOT platform](https://www.tcs.com/content/dam/global-tcs/en/pdfs/insights/solution-details/Technologies_AI%20and%20IoT_Solution_TCS%20Sensor%20Data%20Analytics%20Framework_010417.pdf), A Framework for acquiring, analysing and performing deep dive analytics on machine generated data.
+- Engineering Lead and Solution architect in [TCS Sensor data analytics IOT platform](https://www.tcs.com/content/dam/global-tcs/en/pdfs/insights/solution-details/Technologies_AI%20and%20IoT_Solution_TCS%20Sensor%20Data%20Analytics%20Framework_010417.pdf), A Framework for acquiring, analysing and performing deep dive analytics on machine generated data.
 - Worked as a solution architect for Nielsen connected buy platform for building a data lake in azure cloud.
 - Worked as a Big data and IoT architect for Post Nord IoT Initiative, working on project to create the digital twin of parcel.
 
