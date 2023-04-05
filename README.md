@@ -19,12 +19,8 @@ An experienced cloud and data architect with over 15 years of expertise. Since l
 - Programming Languages: Python, Java,  SQL
 - Cloud Services: EC2, S3, Lambda, Redshift,Kafka,Databricks, DataLake, Glue,EMR,BigQuery,Flink,Airflow
 - Certifications:  Microsoft Certified: Azure Solutions Architect ; Cloudera and MapR Hadoop Certifications
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg' height='30' width='auto' alt="Redshift">
-   <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/databricks/databricks-icon.svg" alt="Databricks" width="auto" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
-</p>
+
+
 ## Professional Experience
 
 ### Senior Data Architect | AWS  | July 2021 - Present
