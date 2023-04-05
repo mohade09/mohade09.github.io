@@ -5,7 +5,7 @@
 - Address: Stockholm
 - Phone: +46(0)720229467
 - Email: debadatta.moha@gmail.com
-- LinkedIn: https://www.linkedin.com/in/debadatta-mohapatra-39157526/
+- [LinkedIn:] (https://www.linkedin.com/in/debadatta-mohapatra-39157526/)
 - [Latest Blog 👉 on Data Governance](https://aws.amazon.com/blogs/big-data/part-1-deploy-datahub-using-aws-managed-services-and-ingest-metadata-from-aws-glue-and-amazon-redshift/)
 
 ## Summary
@@ -24,17 +24,19 @@ An experienced cloud and data architect with over 15 years of expertise in desig
 
 ### Senior Data Architect | AWS  | July 2021 - Present
 
-- Lead the design and implementation data and anlytics paltform in cloud  for various clients using AWS
+- Lead the design and implementation of data and anlytics paltform in cloud  for various clients using AWS
 
 -  Working in  [AWS Data Lab](https://aws.amazon.com/aws-data-lab/), which offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate data, analytics, artificial intelligence/machine learning (AI/ML), serverless, and containers modernization initiatives.
 
-- Collaborate with developers and engineers to ensure best practices and standards for cloud architecture and security
-- Manage and optimize cloud resources and costs using tools such as CloudFormation, CDK and Deployment Manager
+- Collaborate with developers and engineers to ensure best practices and standards for 
+building data platform at scale
+- Manage and optimize cloud resources and costs using tools such as CloudFormation, CDK and Service catalog
 
-- Troubleshoot and resolve cloud issues using monitoring and logging tools such as CloudWatch, Application Insights and Stackdriver
-- Worked with customers to implement data mesh design pattern to build data products, worte blog posts and code artifacts to host opensource data catalog solution in AWS ecosystem.
+- Troubleshoot and resolve cloud/data issues using monitoring , logging,observability  tools such as CloudWatch, Application Insights,SparkUI and Stackdriver
 
-### Data Sceince Delivery Lead /IoT Data Platform Lead | Electrolux . |  AUG 2018 - JUN 2021
+- Worked with customers to implement data mesh design pattern to build data products, wrote blog posts and code artifacts to host opensource data catalog solution in AWS ecosystem.
+
+### Data Sceince Delivery Lead /IoT Data Platform Lead | Electrolux |  AUG 2018 - JUN 2021
 
 - Worked as a Big data and IoT architect in Electrolux connectivity Platform
 - The Responsibility was to formulate the cloud/data strategy for smart home ecosystem
@@ -44,8 +46,8 @@ An experienced cloud and data architect with over 15 years of expertise in desig
 
 ### Software Developer/Tech Lead | Tata Consultance Service |  Jul 2008 - AUG 2018
 
-- As a Developer in TCS tools group for designing and developing three major enterprise data management tools 
-- Worked as a Information management consultant for Westpac bank in the EDW project build on top of Teradata platform.
+- As a Developer in TCS tools group for designing and developing three major enterprise data management tools(DataClean,Data Profile tool, Data Modeling Tool[empowER]) 
+- Worked as a Information management consultant for Westpac bank in the EDW(Data warehouse) project on Teradata Platform
 - Consultant and solution architect in TCS Sensor data analytics IOT platform, A Framework for acquiring, analysing and performing deep dive analytics on machine generated data.
 - Worked as a solution architect for Nielsen connected buy platform for building a data lake in azure cloud.
 - Worked as a Big data and IoT architect for Post Nord IoT Initiative, working on project to create the digital twin of parcel.
