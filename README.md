@@ -25,7 +25,7 @@ An experienced cloud and data architect with over 15 years of expertise. Since l
 
 ### Senior Data Architect | AWS  | July 2021 - Present
 
-- Lead the design and implementation of data and anlytics paltform in cloud  for various clients using AWS
+- Lead the design and implementation of data and anlytics platform in cloud  for various clients using AWS
 
 -  Working in  [AWS Data Lab](https://aws.amazon.com/aws-data-lab/), which offers accelerated, joint engineering engagements between customers and AWS technical resources to create tangible deliverables that accelerate data, analytics, artificial intelligence/machine learning (AI/ML), serverless, and containers modernization initiatives.
 
